@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+       <h1>Caleb Redd{"'"}s Create React App + Go API</h1>
       <h2>Co-author:</h2>
       <ul>
         <li>Vinni</li>
